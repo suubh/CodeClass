@@ -1,0 +1,128 @@
+body {
+    font-family: "Avenir Next";
+  }
+  
+  li {
+    list-style: none;
+  }
+  
+  .header {
+    background-color: #26d0c9;
+    color: #fff;
+    height: 90px;
+  }
+  
+  .header-logo {
+    float: left;
+    font-size: 36px;
+    padding: 20px 40px;
+    font-family: 'Pacifico', cursive;
+  }
+  
+  .header-list li {
+    float: right;
+    padding: 35px 20px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:20px;
+  }
+  
+  .main {
+    padding: 100px 80px;
+  }
+  
+  .copy-container h1 {
+    font-size: 140px;
+  }
+  
+  .copy-container h2 {
+    font-size: 60px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  .copy-container p{
+    font-family: 'Barlow', sans-serif;
+    font-size:20px;
+  }
+  
+  .copy-container span {
+    color: #ff4a4a;
+  }
+  
+  .contents {
+    height: 500px;
+    margin-top: 100px;
+  }
+  
+  .section-title {
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+    text-align: center;
+  }
+  
+  .contents-item {
+    float: left;
+    margin-right: 40px;
+  }
+  
+  .contents-item p {
+    font-size: 24px;
+    margin-top: 30px;
+  }
+  
+  .contact-form {
+    padding-top: 100px;
+    text-align:center;
+  }
+  
+  
+  input,textarea{
+    width:400px;
+    margin-top:10px;
+    margin-bottom:30px;
+    padding:20px;
+    font-size:18px;
+    border:1px solid #dee7ec;
+  }
+  
+  
+  .contact-submit{
+    background-color:#dee7ec;
+    color:#889eab;
+  }
+  
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+    font-family: 'Josefin Sans', sans-serif;
+  }
+  
+  .footer-list {
+    float: right;
+  }
+  
+  .footer-list li {
+    padding-bottom: 20px;
+  }
+  
+  a{
+      color:#ffffff;
+      text-decoration:none ;
+  }
+
+  .main-about{
+      text-align: center;
+      font-size:32px;
+  }
+  .main-lessons li{
+      text-decoration:none;
+      color:#000000;
+      
+  }
