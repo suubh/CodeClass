@@ -1,4 +1,4 @@
-<img  width="100px" height="70px" src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpeg">
+<img  width="100px" height="70px" src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg">
 <h1> CodeClass</h1>
 <hr>
 <h3>An online platform for Web Development materials</h3>
