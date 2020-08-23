@@ -1,5 +1,6 @@
 body {
     font-family: "Avenir Next";
+    background-color: #000000;
   }
   
   li {
@@ -28,6 +29,7 @@ body {
   
   .main {
     padding: 100px 80px;
+    color:white;
   }
   
   .copy-container h1 {
@@ -57,7 +59,7 @@ body {
     font-size: 28px;
     padding-bottom: 15px;
     margin-bottom: 50px;
-    text-align: center;
+    
   }
   
   .contents-item {
@@ -69,10 +71,33 @@ body {
     font-size: 24px;
     margin-top: 30px;
   }
-  
+  .project-sec{
+    height:350px;
+    margin-top:100px;
+  }
+  .project{
+    border-bottom: 2px solid #dee7ec;
+    font-size: 28px;
+    padding-bottom: 15px;
+    margin-bottom: 50px;
+
+  }
+  .project-list{
+    font-family: 'Barlow', sans-serif;
+    font-size:20px;
+  }
+  .project-list a{
+    font-style:italic;
+    color:#26d0c9;
+  }
+
+  .project-list li{
+    padding:15px;
+  }
+
   .contact-form {
     padding-top: 100px;
-    text-align:center;
+    
   }
   
   
@@ -121,8 +146,24 @@ body {
       text-align: center;
       font-size:32px;
   }
-  .main-lessons li{
-      text-decoration:none;
-      color:#000000;
+  .main-lessons{
       
+      color:white;
+      padding:10px;
+      font-size:30px;
+      
+  }
+  .main-for-lesson{
+    color:white;
+    padding: 100px 80px;
+    margin-bottom:500px;
+    font-size:20px;
+  }
+  .main-for-lesson li{
+    padding:20px;
+
+  }
+  .main-for-lesson a{
+    font-style: italic;
+    color:#26d0c9;
   }
