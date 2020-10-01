@@ -72,7 +72,7 @@ body {
     margin-top: 30px;
   }
   .project-sec{
-    height:350px;
+    height:auto;
     margin-top:100px;
   }
   .project{
@@ -167,3 +167,4 @@ body {
     font-style: italic;
     color:#26d0c9;
   }
+  
