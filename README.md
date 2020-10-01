@@ -5,5 +5,5 @@
 <p>Feel free to conribute ,help needed for making it useful </p><br>
 <h4>For providing materials for Lessons , check issues .</h4>
 <h4>Working on Contact Us section .
-<p><a href="https://suubh.github.io/CodeClass/templates/index.html" target="_blank">Visit here</a></p>
+<p><a href="https://suubh.github.io/CodeClass/templates/index.html" target="_blank" >Visit here</a></p>
 
