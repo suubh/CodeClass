@@ -1,6 +1,6 @@
 <p align="center">
 <img align = "center" src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg" /><br>
-
+</p>
 
 [![GitHub stars](https://img.shields.io/github/stars/suubh/CodeClass.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
 [![GitHub contributors](https://img.shields.io/github/contributors/suubh/CodeClass.svg)](https://GitHub.com/suubh/CodeClass/graphs/contributors/)
@@ -9,7 +9,7 @@
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/pulls)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/pulls?q=is%3Apr+is%3Aclosed)
 
-</p>
+
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://ForTheBadge.com)
