@@ -1,40 +1,21 @@
 
 <img  src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg">
-[![GitHub forks](https://img.shields.io/github/forks/bislara/code-n-stitch.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/suubh/CodeClass/network/)
+[![GitHub forks](https://img.shields.io/github/forks/suubh/CodeClass.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/suubh/CodeClass/network/)
 
-[![GitHub stars](https://img.shields.io/github/stars/bislara/code-n-stitch.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
+[![GitHub stars](https://img.shields.io/github/stars/suubh/CodeClass.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
 
+[![GitHub contributors](https://img.shields.io/github/contributors/suubh/CodeClass.svg)](https://GitHub.com/suubh/CodeClass/graphs/contributors/)
 
+[![GitHub issues](https://img.shields.io/github/issues/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/issues)
 
+[![GitHub issues closed](https://img.shields.io/github/issues-closed/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/issues?q=is%3Aissue+is%3Aclosed)
 
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/pulls)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/bislara/code-n-stitch.svg)](https://GitHub.com/suubh/CodeClass/graphs/contributors/)
-
-[![GitHub issues](https://img.shields.io/github/issues/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/issues)
-
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/issues?q=is%3Aissue+is%3Aclosed)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/pulls)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/pulls?q=is%3Apr+is%3Aclosed)
-
-[![GitHub forks](https://img.shields.io/github/forks/bislara/code-n-stitch.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/suubh/CodeClass/network/)
-
-[![GitHub stars](https://img.shields.io/github/stars/bislara/code-n-stitch.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/suubh/CodeClass.svg)](https://github.com/suubh/CodeClass/pulls?q=is%3Apr+is%3Aclosed)
 
 
 
-
-
-[![GitHub contributors](https://img.shields.io/github/contributors/bislara/code-n-stitch.svg)](https://GitHub.com/suubh/CodeClass/graphs/contributors/)
-
-[![GitHub issues](https://img.shields.io/github/issues/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/issues)
-
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/issues?q=is%3Aissue+is%3Aclosed)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/pulls)
-
-[![GitHub pull requests](https://img.shields.io/github/issues-pr-closed/bislara/code-n-stitch.svg)](https://github.com/suubh/CodeClass/pulls?q=is%3Apr+is%3Aclosed)
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](http://ForTheBadge.com)
 
