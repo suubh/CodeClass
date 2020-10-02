@@ -1,5 +1,5 @@
-<p align="senter">
-<img align = "senter" src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg" /><br>
+<p align="center">
+<img align = "center" src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg" /><br>
 </p>
 
 [![GitHub stars](https://img.shields.io/github/stars/suubh/CodeClass.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
