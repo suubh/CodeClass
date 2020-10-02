@@ -22,6 +22,7 @@
 <hr>
 <h3>An online platform for all types of coding materials</h3>
 <p>Feel free to conribute ,help needed for making it useful </p><br>
+<p><a href="https://suubh.github.io/CodeClass/templates/index.html" target="_blank" >Visit here</a></p>
 <hr>
 <h2>🤝 HOW TO CONTRIBUTE?</h2>
 
@@ -34,7 +35,6 @@
 
 
 <hr>
-<h4>Working on Contact Us section .
-<p><a href="https://suubh.github.io/CodeClass/templates/index.html" target="_blank" >Visit here</a></p>
+<h4>Working on Contact Us section .</h4>
   
 
