@@ -1,6 +1,6 @@
 
 <img  src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg">
-[![GitHub forks](https://img.shields.io/github/forks/suubh/CodeClass.svg?style=social&label=Fork&maxAge=2592000)](https://gitHub.com/suubh/CodeClass/network/)
+
 
 [![GitHub stars](https://img.shields.io/github/stars/suubh/CodeClass.svg?style=social&label=Star&maxAge=2592000)](https://suubh/CodeClass/stargazers/)
 
