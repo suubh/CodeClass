@@ -23,7 +23,7 @@
 <h3>An online platform for all types of coding materials</h3>
 <p>Feel free to conribute ,help needed for making it useful </p><br>
 <hr>
-## 🤝 HOW TO CONTRIBUTE?
+<h2>🤝 HOW TO CONTRIBUTE?</h2>
 
 - Find an Issue or Create your own Issues!
 - Wait for the admin's approval comment on the issue 
