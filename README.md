@@ -1,4 +1,6 @@
+
 <img  src="https://github.com/suubh/CodeClass/blob/master/codeclass.jpg">
+[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
 <h1> CodeClass</h1>
 <hr>
 <h3>An online platform for Web Development materials</h3>
