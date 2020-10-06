@@ -1,6 +1,16 @@
+
+html{
+  --bg:white;
+  --color-text:black;
+}
+html[data-theme='dark']{
+  --bg:black;
+  --color-text:white;
+}
+
 body {
     font-family: "Avenir Next";
-    background-color: #000000;
+    background-color: var(--bg);
   }
   
   li {
@@ -9,7 +19,7 @@ body {
   
   .header {
     background-color: #26d0c9;
-    color: #fff;
+    color: var(--color-text);
     height: 90px;
   }
   
@@ -29,7 +39,7 @@ body {
   
   .main {
     padding: 100px 80px;
-    color:white;
+    color: var(--color-text);
   }
   
   .copy-container h1 {
@@ -166,5 +176,63 @@ body {
   .main-for-lesson a{
     font-style: italic;
     color:#26d0c9;
+  }
+  
+  .theme-switch-wrapper {
+    display: flex;
+    align-items: center;
+  
+    em {
+      margin-left: 10px;
+      font-size: 1rem;
+    }
+  }
+  .theme-switch {
+    display: inline-block;
+    height: 34px;
+    position: relative;
+    width: 60px;
+  }
+  
+  .theme-switch input {
+    display:none;
+  }
+  
+  .slider {
+    background-color: #ccc;
+    bottom: 0;
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    right: 0;
+    top: 0;
+    transition: .4s;
+  }
+  
+  .slider:before {
+    background-color: #fff;
+    bottom: 4px;
+    content: "";
+    height: 26px;
+    left: 4px;
+    position: absolute;
+    transition: .4s;
+    width: 26px;
+  }
+  
+  input:checked + .slider {
+    background-color: #66bb6a;
+  }
+  
+  input:checked + .slider:before {
+    transform: translateX(26px);
+  }
+  
+  .slider.round {
+    border-radius: 34px;
+  }
+  
+  .slider.round:before {
+    border-radius: 50%;
   }
   
