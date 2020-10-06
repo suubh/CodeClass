@@ -158,13 +158,13 @@ body {
   }
   .main-lessons{
       
-      color:white;
+      color:var(--color-text);
       padding:10px;
       font-size:30px;
       
   }
   .main-for-lesson{
-    color:white;
+    color:var(--color-text);
     padding: 100px 80px;
     margin-bottom:500px;
     font-size:20px;
