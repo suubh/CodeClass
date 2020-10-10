@@ -79,6 +79,7 @@
             <li><i class="fas fa-code"> </i> Modern CSS Tricks<a href="https://github.com/ficopang/modern-css-trick">View here</a></li>
             <li><i class="fas fa-code"> </i> TO - DO app with Node.js<a href="https://aqueous-basin-26009.herokuapp.com/">View here</a></li>
             <li><i class="fas fa-code"> </i> Machine Learning with Devops<a href="https://github.com/manjay007/MLOps">View here</a></li>
+            <li><i class="fas fa-code"> </i> Airbnb JavaScript Style Guide<a href="https://github.com/airbnb/javascript">View here</a></li>
           </ul>
         </div>
       </div>
@@ -87,16 +88,17 @@
         <h3 class="section-title">Contact us</h3>
         <p>Email (Required)</p>
     
-        <input>
+        <input type="email" id="formEmail" required>
         
         <p>Message (Required)</p>
         
-        <textarea></textarea>
+        <textarea id="formBody" required></textarea>
         
         <p>* Required fields must be filled</p>
         
         <input class="contact-submit" type="submit" value="Send" onclick="sendContact();">
-        
+
+        <div id="formInformation"></div>
         
       </div>
     </div>
