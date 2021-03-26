@@ -32,4 +32,4 @@ Feel free to contribute, help needed for making it useful!
 - Create a Pull Request (from your branch to the main repository master branch) which will be promptly reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this issue is all about.
 
-### Working on Contact Us section.
+### Working on Contact Us section.Check Issues.
