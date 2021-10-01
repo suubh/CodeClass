@@ -15,6 +15,7 @@ body {
   
   li {
     list-style: none;
+    padding-bottom: 20px;
   }
   
   .header {
@@ -68,7 +69,7 @@ body {
     border-bottom: 2px solid #dee7ec;
     font-size: 28px;
     padding-bottom: 15px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
     
   }
   
@@ -83,7 +84,7 @@ body {
   }
   .project-sec{
     height:auto;
-    margin-top:100px;
+    margin-top: 20px;
   }
   .project{
     border-bottom: 2px solid #dee7ec;
@@ -127,6 +128,8 @@ body {
   }
   
   .footer {
+    display: flex;
+    flex-direction: column;
     background-color: #2f5167;
     color: #fff;
     height: 120px;
@@ -144,7 +147,9 @@ body {
   }
   
   .footer-list li {
+    display: inline;
     padding-bottom: 20px;
+    margin-right: 15px;
   }
   
   a{
