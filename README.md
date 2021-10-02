@@ -14,7 +14,6 @@
 [![ForTheBadge built-with-swag](http://ForTheBadge.com/images/badges/built-with-swag.svg)](http://ForTheBadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com)
 
-
 # CodeClass
 
 ## An online platform for all types of coding materials</h3>
@@ -25,11 +24,17 @@ Feel free to contribute, help needed for making it useful!
 
 ## 🤝 HOW TO CONTRIBUTE?
 
-- Find an Issue or Create your own Issues!
-- Wait for the admin's approval comment on the issue 
-- Fork the Repository and create a Branch for any Issue by following the branch creation rule.
-- Work on the issue.
-- Create a Pull Request (from your branch to the main repository master branch) which will be promptly reviewed and suggestions would be added to improve it.
-- Add Screenshots to help us know what this issue is all about.
+-   Find an Issue or Create your own Issues!
+-   Wait for the admin's approval comment on the issue
+-   Fork the Repository and create a Branch for any Issue by following the branch creation rule.
+-   Work on the issue.
+-   Create a Pull Request (from your branch to the main repository master branch) which will be promptly reviewed and suggestions would be added to improve it.
+-   Add Screenshots to help us know what this issue is all about.
 
 ### Working on Contact Us section.Check Issues.
+
+## Contributors
+
+<a href="https://github.com/suubh/CodeClass/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=suubh/CodeClass" />
+</a>
