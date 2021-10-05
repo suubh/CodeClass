@@ -205,25 +205,26 @@
                 </div>
             </div>
 
-            <div class="contact-form">
-                <h3 class="section-title">Contact us</h3>
-                <p>Email (Required)</p>
-
-                <input />
-
-                <p>Message (Required)</p>
-
-                <textarea></textarea>
-
-                <p>* Required fields must be filled</p>
-
-                <input
-                    class="contact-submit"
-                    type="submit"
-                    value="Send"
-                    onclick="sendContact();"
-                />
-            </div>
+            <form id="form-submit">
+                <div class="contact-form">
+                    <h3 class="section-title">Contact us</h3>
+                    <p>Email (Required)</p>
+    
+                    <input type="email" id="input-email" required/>
+    
+                    <p>Message (Required)</p>
+    
+                    <textarea id="input-message" required></textarea>
+    
+                    <p>* Required fields must be filled</p>
+    
+                    <input
+                        class="contact-submit"
+                        type="submit"
+                        value="Send"
+                    />
+                </div>
+            </form>
         </div>
 
         <div class="footer">
