@@ -22,6 +22,7 @@ body {
     background-color: #26d0c9;
     color: var(--color-text);
     height: 90px;
+    z-index: 2;
   }
 
   .header {  /* To make nav-bar position fixed */
@@ -82,6 +83,18 @@ body {
   .contents-item {
     float: left;
     margin-right: 40px;
+    border-radius: 1rem;
+    text-align: center;
+    box-shadow: -1px -1px 12px #3f3f3f;
+  }
+  
+  .contents-item:hover{
+    cursor: pointer;
+    transform: scale(1.02);
+  }
+
+  .contents-item img{
+    border-radius: 1rem 1rem 0 0;
   }
   
   .contents-item p {
@@ -136,15 +149,18 @@ body {
   .footer {
     display: flex;
     flex-direction: column;
-    background-color: #2f5167;
+    justify-content: center;
+    align-items: center;
+    background-color: #2f2f31;
     color: #fff;
-    height: 120px;
+    height: 100px;
     padding: 40px;
   }
   
   .footer-logo {
     float: left;
-    font-size: 32px;
+    font-size: 34px;
+    color: #26d0c9;
     font-family: 'Josefin Sans', sans-serif;
   }
   
@@ -155,12 +171,28 @@ body {
   .footer-list li {
     display: inline;
     padding-bottom: 20px;
-    margin-right: 15px;
+    margin-right: 40px;
   }
   
   a{
-      color:#ffffff;
-      text-decoration:none ;
+    color:#ffffff;
+    text-decoration:none;
+  }
+  
+  .fab{
+    text-shadow: 1px 1px 10px #161618;
+  }
+
+  .fa-facebook:hover{
+    color:#4c67a1;
+  }
+
+  .fa-github:hover{
+    color: #1b1f23;
+  }
+
+  .fa-linkedin:hover{
+    color:#0077b5;
   }
 
   .main-about{
